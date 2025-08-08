@@ -1,0 +1,6 @@
+1. Criar um tabuleiro de forma "dinâmica" - 5x5, 10x10,... - escolhe no começo.
+2. Criar uma classe de "Jogador" com posição X e Y e um Desenho ("O").
+3. Tentar desenhar o personagem DENTRO da casinha do tabuleiro.
+4. Depois que funcionar, queremos fazer uma lista de personagens para desenhar/mostrar todos eles no tabuleiro.
+5. Conseguimos mostrar todo mundo, agora queremos separar em 2 classes com herança. Personagem -> Player e Inimigo.
+6. Quase lá. Se funcionou é hora de fazer eles se moverem.
